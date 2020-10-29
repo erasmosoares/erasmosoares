@@ -122,6 +122,8 @@
   </tbody>
 </table>
 
+ ### Wakatime - Last 7 days
+
 <!--START_SECTION:waka-->
 ```text
 JavaScript   1 hr 52 mins    ████████████████████████░   96.13 % 
