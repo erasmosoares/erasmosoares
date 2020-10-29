@@ -84,7 +84,14 @@
 
 </td></tr></table>  
 
-<br/>  
+ ### Wakatime - Last 7 days
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   1 hr 52 mins    ████████████████████████░   96.13 % 
+Other        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+```
+<!--END_SECTION:waka-->
 
 <h3>Sample projects</h3>
 <table>
@@ -122,11 +129,4 @@
   </tbody>
 </table>
 
- ### Wakatime - Last 7 days
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   1 hr 52 mins    ████████████████████████░   96.13 % 
-Other        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-```
-<!--END_SECTION:waka-->
+![](https://komarev.com/ghpvc/?username=erasmosoares&color=brightgreen)
