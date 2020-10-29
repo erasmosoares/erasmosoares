@@ -123,4 +123,8 @@
 </table>
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   1 hr 52 mins    ████████████████████████░   96.13 % 
+Other        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+```
 <!--END_SECTION:waka-->
