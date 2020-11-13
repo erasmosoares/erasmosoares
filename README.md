@@ -2,7 +2,7 @@
  
  ### <div align="center">I'm a Generalist Software Engineer 🚀</div>
  
-- 🌱 I’m currently learning **React Native**   
+- 🌱 I’m currently learning **Functional Programming**   
 - 🚀 This is my <a href="https://sourcerer.io/erasmosoares">Sourcerer</a> page.
 - 📘 I'm currently reading - <a href="https://www.amazon.ca/-/fr/New-Scientist/dp/1473670160/ref=sr_1_2?dchild=1&gclid=CjwKCAjw5p_8BRBUEiwAPpJO67Y3lTFfhQgEyBbNCqw704z-n-4gRel0DTom6UG7uFeQ0_NBIe9eHhoCffIQAvD_BwE&hvadid=208282212677&hvdev=c&hvlocphy=9000262&hvnetw=g&hvqmt=e&hvrand=14358147692193053712&hvtargid=kwd-299687240769&hydadcr=2467_9638432&keywords=the+origin+of+almost+everything&qid=1602818728&sr=8-2&tag=googcana-20">The origin of (almost) everything</a>. 
   
