@@ -14,3 +14,4 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: 8cb730fb-2878-4fa6-bbca-ba68d13cb604
+          SHOW_TITLE: true  
