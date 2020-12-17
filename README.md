@@ -86,9 +86,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 December, 2020 - 15 December, 2020
+Week: 09 December, 2020 - 16 December, 2020
 
-Python       2 hrs 31 mins   ██████████████████▓░░░░░░   74.16 % 
+Python       2 hrs 31 mins   ██████████████████▓░░░░░░   74.15 % 
 CSHTML       22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
 C#           10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 JavaScript   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
