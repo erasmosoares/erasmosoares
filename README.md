@@ -109,7 +109,7 @@ JSON         5 mins          ▓░░░░░░░░░░░░░░░░
   </thead>
   <tbody>
 	  <tr>
-		  <td><a href="https://github.com/erasmosoares/sample-node-express"><b>Node.js / Express / MongoDb</b></a></td>
+		  <td><a href="https://github.com/erasmosoares/sample-node-express"><b>Node.js / Express</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/erasmosoares/sample-node-express?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/erasmosoares/sample-node-express?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/erasmosoares/sample-node-express?style=flat-square&labelColor=343b41"/></td>
