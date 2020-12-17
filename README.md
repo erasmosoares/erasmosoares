@@ -109,11 +109,11 @@ JSON         5 mins          ▓░░░░░░░░░░░░░░░░
   </thead>
   <tbody>
 	  <tr>
-		  <td><a href="https://github.com/erasmosoares/sample-node-express"><b>Node.js Express</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/erasmosoares/sample-node-express?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/erasmosoares/sample-node-express?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/erasmosoares/sample-node-express?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/erasmosoares/sample-node-express?style=flat-square&labelColor=343b41"/></td>
+		  <td><a href="https://github.com/erasmosoares/sample-node"><b>Node.js / Express / MongoDb</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/erasmosoares/sample-node?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/erasmosoares/sample-node?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/erasmosoares/sample-node?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/erasmosoares/sample-node?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	   <tr>
 	    <td><a href="https://github.com/erasmosoares/coinfac-core"><b>Net Core / Angular</b></a></td>
