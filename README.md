@@ -86,13 +86,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 December, 2020 - 17 December, 2020
+Week: 11 December, 2020 - 18 December, 2020
 
-Python       2 hrs 19 mins   ██████████████████░░░░░░░   72.62 % 
-CSHTML       22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-C#           10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-JavaScript   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Python     1 hr 48 mins    ███████████████████████▒░   93.65 % 
+C#         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
 ```
 <!--END_SECTION:waka-->
 
