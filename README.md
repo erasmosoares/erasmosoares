@@ -86,10 +86,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 December, 2020 - 20 December, 2020
+Week: 14 December, 2020 - 21 December, 2020
 
-Python     1 hr 48 mins    ███████████████████████▒░   93.65 % 
-C#         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Python     1 hr 14 mins    ██████████████████████▓░░   91.08 % 
+C#         6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
 ```
 <!--END_SECTION:waka-->
 
