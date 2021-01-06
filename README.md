@@ -86,7 +86,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 29 December, 2020 - 05 January, 2021
+
+JavaScript   5 mins          ███████████░░░░░░░░░░░░░░   44.63 % 
+JSON         4 mins          ████████░░░░░░░░░░░░░░░░░   31.77 % 
+C#           2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.03 % 
 ```
 <!--END_SECTION:waka-->
 
