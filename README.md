@@ -86,10 +86,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 January, 2021 - 19 January, 2021
+Week: 13 January, 2021 - 20 January, 2021
 
-C#      1 hr 5 mins     █████████████████████▒░░░   84.95 % 
-Other   11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+C#           1 hr 16 mins    ████████████████████░░░░░   79.41 % 
+Other        11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+JavaScript   7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
 ```
 <!--END_SECTION:waka-->
 
