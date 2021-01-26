@@ -86,7 +86,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 January, 2021 - 24 January, 2021
+Week: 18 January, 2021 - 25 January, 2021
 
 C#           10 mins         ██████████████▒░░░░░░░░░░   57.00 % 
 JavaScript   7 mins          █████████▓░░░░░░░░░░░░░░░   39.32 % 
