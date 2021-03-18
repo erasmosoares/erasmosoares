@@ -86,7 +86,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 March, 2021 - 16 March, 2021
+Week: 10 March, 2021 - 17 March, 2021
 
 C#           45 mins         █████████░░░░░░░░░░░░░░░░   35.89 % 
 Bash         30 mins         ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
