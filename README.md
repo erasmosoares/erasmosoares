@@ -86,9 +86,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 March, 2021 - 07 April, 2021
+Week: 01 April, 2021 - 08 April, 2021
 
-Python       56 mins         ████████████████████████▓   98.68 % 
+Docker       24 mins         ████████████░░░░░░░░░░░░░   48.58 % 
+Python       12 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.69 % 
+JavaScript   11 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.31 % 
+CSHTML       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 ```
 <!--END_SECTION:waka-->
 
