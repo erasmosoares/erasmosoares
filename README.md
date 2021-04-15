@@ -84,7 +84,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 April, 2021 - 13 April, 2021
+Week: 07 April, 2021 - 14 April, 2021
 
 Docker       24 mins         ██████████████░░░░░░░░░░░   55.51 % 
 JavaScript   11 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.31 % 
