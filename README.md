@@ -84,12 +84,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 April, 2021 - 14 April, 2021
+Week: 08 April, 2021 - 15 April, 2021
 
-Docker       24 mins         ██████████████░░░░░░░░░░░   55.51 % 
-JavaScript   11 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.31 % 
-Other        6 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-CSHTML       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Docker   19 mins         ██████████████████▒░░░░░░   73.92 % 
+Other    7 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.08 % 
 ```
 <!--END_SECTION:waka-->
 
