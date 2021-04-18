@@ -2,7 +2,7 @@
  
  ### <div align="center">I'm a Generalist Software Engineer 🚀</div>
  
-- 🌱 I’m currently learning **Python**   
+- 🌱 I’m currently learning **Python** and **Docker**
   
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
