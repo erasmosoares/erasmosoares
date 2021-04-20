@@ -1,6 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Erasmo Soares</h1>
- 
- ### <div align="center">I'm a Generalist Software Engineer 🚀</div>
+<h1 align="center">Hi, I'm Erasmo Soares</h1>
  
 - 🌱 I’m currently learning **Python** and **Docker**
 - I'm a Generalist Software Engineer working  since 2008 🚀
