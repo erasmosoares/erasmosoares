@@ -84,9 +84,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 April, 2021 - 21 April, 2021
+Week: 15 April, 2021 - 22 April, 2021
 
-Docker     37 mins         █████████████████████████   99.34 % 
+Docker     17 mins         ████████████████████████▓   99.12 % 
 ```
 <!--END_SECTION:waka-->
 
