@@ -84,7 +84,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 20 April, 2021 - 27 April, 2021
+
+Docker   2 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
