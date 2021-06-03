@@ -84,7 +84,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 26 May, 2021 - 02 June, 2021
+
+Markdown   2 hrs 16 mins   █████████████████████████   99.84 % 
 ```
 <!--END_SECTION:waka-->
 
