@@ -84,9 +84,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 June, 2021 - 08 June, 2021
-
-Markdown   2 hrs 16 mins   █████████████████████████   99.84 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
