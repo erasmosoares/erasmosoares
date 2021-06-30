@@ -84,11 +84,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 June, 2021 - 28 June, 2021
-
-C#      1 hr 39 mins    ██████████████████████░░░   88.04 % 
-Text    11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Other   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
