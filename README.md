@@ -84,7 +84,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 04 July, 2021 - 10 July, 2021
+
+JavaScript   1 hr 59 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
