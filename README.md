@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Erasmo Soares</h1>
+<h1 align="center">Hi, I'm <a href="https://www.hackerrank.com/erasmosaraujo">Erasmo Soares</a></h1>
  
 - 🌱 I’m currently learning **Python** and **Docker**
 - I'm a Generalist Software Engineer working  since 2008 🚀
