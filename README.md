@@ -84,11 +84,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 July, 2021 - 17 July, 2021
+Week: 12 July, 2021 - 18 July, 2021
 
-JavaScript   4 hrs 33 mins   ████████████████████████░   95.53 % 
-Docker       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-YAML         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+JavaScript   4 hrs 44 mins   ███████████████████████▓░   95.07 % 
+YAML         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Docker       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 ```
 <!--END_SECTION:waka-->
 
