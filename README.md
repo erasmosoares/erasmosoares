@@ -84,10 +84,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 July, 2021 - 24 July, 2021
+Week: 19 July, 2021 - 25 July, 2021
 
-JavaScript   56 mins         ████████████████████████▒   96.75 % 
-YAML         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+JavaScript   46 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
