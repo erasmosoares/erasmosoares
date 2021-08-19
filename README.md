@@ -84,9 +84,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 August, 2021 - 17 August, 2021
+Week: 12 August, 2021 - 18 August, 2021
 
-C#   2 hrs 39 mins   █████████████████████████   100.00 % 
+C#   1 hr 10 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
