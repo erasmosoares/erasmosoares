@@ -84,9 +84,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 August, 2021 - 04 September, 2021
+Week: 01 September, 2021 - 07 September, 2021
 
-C#   35 mins         █████████████████████████   100.00 % 
+C#   11 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
