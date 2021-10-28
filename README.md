@@ -84,7 +84,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 21 October, 2021 - 27 October, 2021
+
+JavaScript   36 mins         ██████████████░░░░░░░░░░░   56.59 % 
+JSON         14 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.09 % 
+Markdown     12 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.67 % 
 ```
 <!--END_SECTION:waka-->
 
