@@ -84,12 +84,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 October, 2021 - 04 November, 2021
+Week: 30 October, 2021 - 05 November, 2021
 
-JavaScript   5 hrs 12 mins   ██████████████████████░░░   88.58 % 
-Docker       20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-JSON         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-TypeScript   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+JavaScript   4 hrs 38 mins   ████████████████████████▓   98.99 % 
+TypeScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 ```
 <!--END_SECTION:waka-->
 
