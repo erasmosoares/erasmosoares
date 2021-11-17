@@ -84,7 +84,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 10 November, 2021 - 16 November, 2021
+
+JavaScript   29 mins         █████████████▓░░░░░░░░░░░   54.20 % 
+Python       24 mins         ███████████▒░░░░░░░░░░░░░   45.38 % 
 ```
 <!--END_SECTION:waka-->
 
