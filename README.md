@@ -84,7 +84,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 November, 2021 - 26 November, 2021
+Week: 21 November, 2021 - 27 November, 2021
 
 JavaScript   2 hrs 9 mins    ███████████▓░░░░░░░░░░░░░   46.60 % 
 C#           1 hr 10 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.54 % 
