@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm <a href="https://www.hackerrank.com/erasmosaraujo">Erasmo Soares</a></h1>
  
-- 🌱 I’m currently learning **Python** and **Docker**
 - I'm a Generalist Software Engineer working  since 2008 🚀
-- I'm currently reading - <a href="https://www.amazon.ca/-/fr/Yuval-Noah-Harari/dp/0771048882/ref=sr_1_1?__mk_fr_CA=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=21+Lessons+for+the+21st+Century&qid=1618886361&sr=8-1">21 Lessons for the 21st Century</a>. 📘
+- I'm currently reading - <a href="https://www.amazon.ca/Bone-Clocks-David-Mitchell/dp/0340921625">The Bone Clocks</a>. 📘
   
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
