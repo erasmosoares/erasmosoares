@@ -83,7 +83,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 February, 2022 - 20 February, 2022
+From: 14 February, 2022 - To: 21 February, 2022
 
 JavaScript   52 mins         █████████████████████████   100.00 % 
 ```
