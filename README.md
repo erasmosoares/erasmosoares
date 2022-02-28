@@ -22,13 +22,18 @@
  ### Wakatime - Last 7 days
 
 <!--START_SECTION:waka-->
-```text
-From: 17 February, 2022 - To: 24 February, 2022
 
-C#           1 hr 26 mins    ██████████████████████▒░░   89.42 % 
-Markdown     5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-JavaScript   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+C#           1 hr 37 mins    ██████████████▓░░░░░░░░░░   59.31 %
+JavaScript   40 mins         ██████░░░░░░░░░░░░░░░░░░░   24.44 %
+JSON         14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
+Markdown     6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+TypeScript   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
+
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=erasmosoares&color=brightgreen)
