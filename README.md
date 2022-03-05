@@ -24,14 +24,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 February 2022 - To: 02 March 2022
+From: 25 February 2022 - To: 04 March 2022
 
-C#           1 hr 37 mins    ████████████▒░░░░░░░░░░░░   49.45 %
-JavaScript   1 hr 12 mins    █████████▒░░░░░░░░░░░░░░░   36.74 %
-JSON         15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
-Markdown     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-TypeScript   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+JavaScript   34 mins         █████████████████████░░░░   83.41 %
+TypeScript   5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 ```
 
 <!--END_SECTION:waka-->
