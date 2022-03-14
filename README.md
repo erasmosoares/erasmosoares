@@ -24,12 +24,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 March 2022 - To: 12 March 2022
+From: 06 March 2022 - To: 13 March 2022
 
-Python       3 hrs 25 mins   ██████████████████████▓░░   90.89 %
-Markdown     19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Python       4 hrs 31 mins   █████████████████████▓░░░   87.20 %
+Markdown     19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
+HTML         18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
