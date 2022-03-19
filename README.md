@@ -24,11 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 March 2022 - To: 17 March 2022
+From: 11 March 2022 - To: 18 March 2022
 
-Python     4 hrs 45 mins   ███████████████████▒░░░░░   77.71 %
-HTML       1 hr 5 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.94 %
-Other      7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Python     3 hrs 6 mins    ████████████████░░░░░░░░░   64.34 %
+HTML       1 hr 26 mins    ███████▒░░░░░░░░░░░░░░░░░   29.89 %
+Other      7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
 ```
 
 <!--END_SECTION:waka-->
