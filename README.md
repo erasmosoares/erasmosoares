@@ -24,7 +24,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 31 March 2022 - To: 07 April 2022
+
+CSS    32 mins         ███████████████████████░░   92.11 %
+HTML   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
 ```
 
 <!--END_SECTION:waka-->
