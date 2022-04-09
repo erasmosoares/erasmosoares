@@ -24,7 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 March 2022 - To: 07 April 2022
+From: 01 April 2022 - To: 08 April 2022
 
 CSS    32 mins         ███████████████████████░░   92.11 %
 HTML   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
