@@ -24,10 +24,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 April 2022 - To: 13 April 2022
+From: 07 April 2022 - To: 14 April 2022
 
-CSS    1 hr 40 mins    █████████████████████▒░░░   85.00 %
-HTML   17 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 %
+CSS    1 hr 7 mins     ████████████████████▓░░░░   82.01 %
+HTML   14 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.99 %
 ```
 
 <!--END_SECTION:waka-->
