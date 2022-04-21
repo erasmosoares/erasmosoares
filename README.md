@@ -24,10 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 April 2022 - To: 19 April 2022
-
-CSS    1 hr 7 mins     ████████████████████▓░░░░   82.01 %
-HTML   14 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.99 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
