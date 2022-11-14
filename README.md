@@ -24,7 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 07 November 2022 - To: 14 November 2022
+
+C#         7 hrs 24 mins   ███████████████████████░░   92.24 %
+Markdown   27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+Other      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 ```
 
 <!--END_SECTION:waka-->
