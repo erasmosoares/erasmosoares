@@ -24,11 +24,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 November 2022 - To: 14 November 2022
+From: 08 November 2022 - To: 15 November 2022
 
-C#         7 hrs 24 mins   ███████████████████████░░   92.24 %
-Markdown   27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
-Other      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+C#         5 hrs 11 mins   ████████████████████████░   95.85 %
+Markdown   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+XML        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+INI        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Git        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
