@@ -24,11 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 November 2022 - To: 17 November 2022
+From: 11 November 2022 - To: 18 November 2022
 
-C#         1 hr 51 mins    ████████████████████▒░░░░   81.67 %
-Python     21 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.77 %
-Other      2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+C#         1 hr 39 mins    ████████████████████░░░░░   79.91 %
+Python     21 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.29 %
+Other      2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
 ```
 
 <!--END_SECTION:waka-->
