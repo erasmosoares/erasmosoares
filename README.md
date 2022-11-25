@@ -24,10 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 November 2022 - To: 23 November 2022
-
-Python   15 mins         █████████████████████░░░░   84.61 %
-Other    2 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.39 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
