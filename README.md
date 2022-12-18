@@ -24,7 +24,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 10 December 2022 - To: 17 December 2022
+
+Markdown   40 mins         ███████████████████████▓░   95.03 %
+Other      2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
 ```
 
 <!--END_SECTION:waka-->
