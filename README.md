@@ -24,10 +24,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 December 2022 - To: 23 December 2022
+From: 17 December 2022 - To: 24 December 2022
 
-Markdown   1 hr 20 mins    ████████████████████████▒   97.42 %
-Other      2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Markdown   39 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
