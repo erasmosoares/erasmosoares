@@ -24,10 +24,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 December 2022 - To: 29 December 2022
+From: 23 December 2022 - To: 30 December 2022
 
-C#         1 hr 51 mins    ███████████████▒░░░░░░░░░   61.12 %
-Markdown   1 hr 10 mins    █████████▓░░░░░░░░░░░░░░░   38.88 %
+C#         1 hr 51 mins    ███████████████████▓░░░░░   78.07 %
+Markdown   31 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.93 %
 XML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
