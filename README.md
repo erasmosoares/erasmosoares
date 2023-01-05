@@ -24,11 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 December 2022 - To: 03 January 2023
-
-C#         1 hr 24 mins    ██████████████████▒░░░░░░   72.92 %
-Markdown   31 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.08 %
-XML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
