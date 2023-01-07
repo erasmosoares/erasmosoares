@@ -24,9 +24,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 December 2022 - To: 05 January 2023
+From: 30 December 2022 - To: 06 January 2023
 
-Markdown   34 mins         █████████████████████████   100.00 %
+C#         1 hr 21 mins    █████████████████░░░░░░░░   68.27 %
+Markdown   37 mins         ████████░░░░░░░░░░░░░░░░░   31.73 %
 ```
 
 <!--END_SECTION:waka-->
