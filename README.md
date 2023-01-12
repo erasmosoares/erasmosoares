@@ -24,10 +24,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 January 2023 - To: 10 January 2023
+From: 04 January 2023 - To: 11 January 2023
 
-C#         1 hr 31 mins    █████████████████▓░░░░░░░   70.73 %
-Markdown   37 mins         ███████▒░░░░░░░░░░░░░░░░░   29.27 %
+C#         1 hr 53 mins    ██████████████████▓░░░░░░   75.14 %
+Markdown   37 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.86 %
 ```
 
 <!--END_SECTION:waka-->
