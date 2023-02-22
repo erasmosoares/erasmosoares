@@ -24,9 +24,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 February 2023 - To: 21 February 2023
+From: 15 February 2023 - To: 22 February 2023
 
-C#   33 mins         █████████████████████████   100.00 %
+C++   53 mins         ███████████████▓░░░░░░░░░   62.52 %
+C#    31 mins         █████████▒░░░░░░░░░░░░░░░   37.48 %
 ```
 
 <!--END_SECTION:waka-->
