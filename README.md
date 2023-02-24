@@ -24,10 +24,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 February 2023 - To: 23 February 2023
+From: 17 February 2023 - To: 24 February 2023
 
-C++   1 hr 41 mins    ███████████████████▒░░░░░   77.85 %
-C#    28 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.15 %
+C++          1 hr 41 mins    █████████▓░░░░░░░░░░░░░░░   39.07 %
+Markdown     1 hr 15 mins    ███████▒░░░░░░░░░░░░░░░░░   28.85 %
+JavaScript   59 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.96 %
+JSON         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Docker       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+Other        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
 ```
 
 <!--END_SECTION:waka-->
