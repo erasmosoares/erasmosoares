@@ -19,7 +19,7 @@
   </a>
 </p>
 
- ### Wakatime - Last 7 days
+ ### Wakatime 
 
 <!--START_SECTION:waka-->
 
