@@ -17,3 +17,4 @@ jobs:
           SHOW_TITLE: true
           TIME_RANGE: all_time
           SHOW_TIME: true
+          LANG_COUNT: 10
