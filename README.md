@@ -45,7 +45,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 March 2022 - To: 02 March 2023
+From: 03 March 2022 - To: 03 March 2023
 
 C#           18 hrs 28 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.67 %
 Python       11 hrs 57 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.28 %
