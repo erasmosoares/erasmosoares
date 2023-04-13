@@ -45,7 +45,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 April 2022 - To: 11 April 2023
+From: 12 April 2022 - To: 12 April 2023
 
 C#           18 hrs 31 mins  ███████▒░░░░░░░░░░░░░░░░░   29.68 %
 JavaScript   7 hrs 10 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
