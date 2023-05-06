@@ -45,7 +45,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 May 2022 - To: 04 May 2023
+From: 05 May 2022 - To: 05 May 2023
 
 C#           20 hrs 34 mins  ████████░░░░░░░░░░░░░░░░░   32.57 %
 JavaScript   7 hrs 10 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
@@ -57,7 +57,6 @@ Docker       4 hrs 23 mins   █▓░░░░░░░░░░░░░░░
 Python       3 hrs 12 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
 C++          2 hrs 34 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
 JSON         1 hr 17 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-Other        48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 ```
 
 <!--END_SECTION:waka-->
