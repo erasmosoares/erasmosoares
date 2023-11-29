@@ -1,8 +1,7 @@
 <h1 align="center">Hi <a href="https://www.hackerrank.com/erasmosaraujo">.</a></h1>
  
-- I'm a Generalist Software Engineer working  since 2008 🚀
-- I'm currently reading - <a href="https://www.amazon.ca/Bone-Clocks-David-Mitchell/dp/0340921625">The Bone Clocks</a>. 📘
-  
+- I'm a Generalist Software Engineer  since 2008 🚀
+<!--  
 <p align="left">
   <a href="https://github.com/erasmosoares/github-readme-stats">
     <img
@@ -11,11 +10,7 @@
     />
   </a>
   <a href="https://github.com/erasmosoares/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=erasmosoares&theme=radical&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
+    [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
   </a>
 </p>
 
