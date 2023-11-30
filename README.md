@@ -42,6 +42,8 @@
 ```txt
 From: 29 November 2022 - To: 29 November 2023
 
+Total Time: 89 hrs 32 mins
+
 TypeScript   55 hrs 30 mins  ███████████████▒░░░░░░░░░   61.87 %
 C#           11 hrs 1 min    ███░░░░░░░░░░░░░░░░░░░░░░   12.29 %
 Markdown     5 hrs 14 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
