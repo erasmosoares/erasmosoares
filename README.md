@@ -40,20 +40,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 March 2023 - To: 15 March 2024
+From: 17 March 2023 - To: 16 March 2024
 
-Total Time: 163 hrs 10 mins
+Total Time: 162 hrs 49 mins
 
-TypeScript   150 hrs 38 mins ███████████████████████░░   92.28 %
-JSON         3 hrs 36 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+TypeScript   151 hrs 11 mins ███████████████████████▒░   92.81 %
+JSON         3 hrs 20 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
 Python       2 hrs 19 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 C#           2 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-JavaScript   1 hr 14 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+JavaScript   1 hr 1 min      ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 YAML         59 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-HTML         40 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-Markdown     28 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-GDScript3    18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+HTML         38 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+GDScript3    18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 CSS          12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+INI          10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
