@@ -40,16 +40,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 April 2023 - To: 16 April 2024
+From: 18 April 2023 - To: 17 April 2024
 
-Total Time: 168 hrs 21 mins
+Total Time: 168 hrs 56 mins
 
-TypeScript    153 hrs 3 mins  ██████████████████████▓░░   90.78 %
-JSON          4 hrs 39 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+TypeScript    153 hrs 36 mins ██████████████████████▓░░   90.80 %
+JSON          4 hrs 40 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
 JavaScript    2 hrs 53 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 Python        2 hrs 19 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 C#            2 hrs 2 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-YAML          1 hr            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+YAML          1 hr            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 HTML          38 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 Markdown      33 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 GDScript3     18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
