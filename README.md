@@ -40,20 +40,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 April 2023 - To: 23 April 2024
+From: 25 April 2023 - To: 24 April 2024
 
-Total Time: 175 hrs 4 mins
+Total Time: 174 hrs 58 mins
 
-TypeScript    153 hrs 41 mins ██████████████████████░░░   87.64 %
-Python        7 hrs 44 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+TypeScript    153 hrs 41 mins ██████████████████████░░░   87.69 %
+Python        8 hrs 46 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
 JSON          4 hrs 40 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
 JavaScript    2 hrs 53 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-C#            1 hr 9 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 YAML          1 hr            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 CSV           53 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 HTML          39 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 Markdown      33 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Text          26 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Text          29 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+INI           19 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
