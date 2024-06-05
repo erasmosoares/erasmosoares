@@ -40,20 +40,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 June 2023 - To: 03 June 2024
+From: 05 June 2023 - To: 04 June 2024
 
-Total Time: 234 hrs 59 mins
+Total Time: 238 hrs 48 mins
 
-TypeScript    204 hrs 38 mins █████████████████████▓░░░   86.97 %
-Python        13 hrs 13 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
-JSON          5 hrs 4 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-JavaScript    3 hrs 39 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-Markdown      2 hrs 45 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-YAML          1 hr            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+TypeScript    208 hrs 26 mins █████████████████████▓░░░   87.17 %
+Python        13 hrs 13 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+JSON          5 hrs 5 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+JavaScript    3 hrs 39 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Markdown      2 hrs 45 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+YAML          1 hr            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 HTML          59 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-CSV           58 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+CSV           58 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 Text          53 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-Git Config    40 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Git Config    40 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
