@@ -40,20 +40,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 November 2023 - To: 18 November 2024
+From: 20 November 2023 - To: 19 November 2024
 
-Total Time: 280 hrs 47 mins
+Total Time: 278 hrs 42 mins
 
-TypeScript    227 hrs 42 mins ████████████████████▒░░░░   80.92 %
-JavaScript    14 hrs 51 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-Python        11 hrs 56 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-JSON          8 hrs 24 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-Docker        3 hrs 51 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-Go            3 hrs 32 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-Markdown      3 hrs 20 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+TypeScript    225 hrs 38 mins ████████████████████▒░░░░   80.79 %
+JavaScript    14 hrs 51 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+Python        11 hrs 56 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+JSON          8 hrs 24 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Docker        3 hrs 51 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Go            3 hrs 32 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Markdown      3 hrs 20 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 CSV           2 hrs 17 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 YAML          1 hr 21 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-HTML          1 hr 1 min      ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+HTML          1 hr 1 min      ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
