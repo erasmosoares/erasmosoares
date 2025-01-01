@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2023 - To: 30 December 2024
+From: 01 January 2024 - To: 31 December 2024
 
-Total Time: 238 hrs 11 mins
+Total Time: 237 hrs 33 mins
 
-TypeScript    179 hrs 28 mins ██████████████████▓░░░░░░   75.07 %
-JavaScript    14 hrs 51 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
-Python        11 hrs 56 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
-Go            9 hrs 1 min     █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-JSON          8 hrs 21 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+TypeScript    178 hrs 50 mins ██████████████████▓░░░░░░   75.00 %
+JavaScript    14 hrs 51 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+Python        11 hrs 56 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
+Go            9 hrs 1 min     █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+JSON          8 hrs 21 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
 Docker        3 hrs 51 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 Markdown      3 hrs 20 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 CSV           2 hrs 17 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
