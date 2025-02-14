@@ -40,18 +40,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2024 - To: 12 February 2025
+From: 14 February 2024 - To: 13 February 2025
 
-Total Time: 196 hrs 53 mins
+Total Time: 195 hrs 11 mins
 
-TypeScript    140 hrs 26 mins █████████████████▓░░░░░░░   71.01 %
-JavaScript    14 hrs 2 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
-Python        11 hrs 56 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
-Go            9 hrs 1 min     █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
-JSON          5 hrs 47 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
-Markdown      4 hrs 45 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
-Docker        3 hrs 51 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-CSV           2 hrs 17 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+TypeScript    138 hrs 43 mins █████████████████▓░░░░░░░   70.76 %
+JavaScript    14 hrs 2 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+Python        11 hrs 56 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
+Go            9 hrs 1 min     █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+JSON          5 hrs 47 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+Markdown      4 hrs 45 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Docker        3 hrs 51 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+CSV           2 hrs 17 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 C#            1 hr 1 min      ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 Text          56 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
