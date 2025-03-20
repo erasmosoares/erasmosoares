@@ -40,7 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 March 2024 - To: 17 March 2025
+From: 18 March 2024 - To: 18 March 2025
 
 Total Time: 161 hrs 16 mins
 
