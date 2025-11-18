@@ -40,16 +40,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 November 2024 - To: 16 November 2025
+From: 17 November 2024 - To: 17 November 2025
 
-Total Time: 76 hrs 15 mins
+Total Time: 76 hrs 13 mins
 
-TypeScript                         47 hrs 47 mins  ███████████████▓░░░░░░░░░   62.06 %
+TypeScript                         47 hrs 47 mins  ███████████████▓░░░░░░░░░   62.08 %
 Go                                 10 hrs 58 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.25 %
 Python                             5 hrs 25 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
 Markdown                           1 hr 40 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
 Terraform                          1 hr 39 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-JavaScript                         1 hr 37 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+JavaScript                         1 hr 36 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 SQL                                1 hr 34 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
 JSON                               1 hr 14 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 C#                                 1 hr 2 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
