@@ -40,20 +40,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 December 2024 - To: 05 December 2025
+From: 06 December 2024 - To: 06 December 2025
 
-Total Time: 72 hrs 18 mins
+Total Time: 71 hrs 22 mins
 
-TypeScript                         47 hrs 47 mins  ████████████████▒░░░░░░░░   65.42 %
-Go                                 7 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
-Python                             5 hrs 25 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
-Markdown                           1 hr 40 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-Terraform                          1 hr 39 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-JavaScript                         1 hr 36 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-SQL                                1 hr 34 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-JSON                               1 hr 14 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-C#                                 1 hr 2 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-Other                              44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+TypeScript                         47 hrs 47 mins  ████████████████▓░░░░░░░░   66.27 %
+Go                                 6 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
+Python                             5 hrs 25 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
+Markdown                           1 hr 40 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Terraform                          1 hr 39 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+JavaScript                         1 hr 36 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+SQL                                1 hr 34 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+JSON                               1 hr 14 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+C#                                 1 hr 2 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Other                              44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
