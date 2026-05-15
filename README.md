@@ -40,20 +40,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 May 2025 - To: 12 May 2026
+From: 14 May 2025 - To: 14 May 2026
 
-Total Time: 91 hrs 23 mins
+Total Time: 94 hrs 23 mins
 
-TypeScript      49 hrs 18 mins        █████████████▒░░░░░░░░░░░   53.56 %
-Markdown        10 hrs 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
-Python          8 hrs 36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
-Go              5 hrs 24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
-Bash            2 hrs 36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-JavaScript      2 hrs 16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-C#              2 hrs 2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-HTML            1 hr 52 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-Terraform       1 hr 50 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-YAML            1 hr 45 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+TypeScript      51 hrs 35 mins        █████████████▓░░░░░░░░░░░   54.28 %
+Markdown        10 hrs 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
+Python          8 hrs 36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
+Go              5 hrs 24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
+Bash            2 hrs 36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+JavaScript      2 hrs 16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+C#              2 hrs 2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+HTML            1 hr 52 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Terraform       1 hr 50 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+YAML            1 hr 45 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
 ```
 
 <!--END_SECTION:waka-->
