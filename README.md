@@ -40,12 +40,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2025 - To: 30 August 2026
+From: 01 September 2025 - To: 01 September 2026
 
-Total Time: 94 hrs 44 mins
+Total Time: 94 hrs 45 mins
 
-TypeScript      55 hrs 15 mins        ██████████████▒░░░░░░░░░░   57.87 %
-Markdown        11 hrs 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
+TypeScript      55 hrs 15 mins        ██████████████▒░░░░░░░░░░   57.86 %
+Markdown        11 hrs 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
 Python          8 hrs 32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
 JavaScript      2 hrs 41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
 Bash            2 hrs 36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
